@@ -2,4 +2,4 @@
 
 # Best Discord Bot
 
-# Join Discord Server for Support - https://discord.gg/codersplanet
+# Join Discord Server for Support - 
